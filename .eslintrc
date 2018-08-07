@@ -1,0 +1,9 @@
+{
+    "extends": [
+        "airbnb",
+        "plugin:vue/essential"
+    ],
+    "rules": {
+        "linebreak-style": 0
+    }
+}
